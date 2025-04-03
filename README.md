@@ -1,4 +1,4 @@
-# HealthcareData
+# Healthcare Datasets
 
 Resources for finding publicly available healthcare datasets:
 
